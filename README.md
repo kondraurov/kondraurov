@@ -1,4 +1,9 @@
-## Hi there 👋
+# Всем привет! 👋
+
+## Мой стек технологий:
+
+<img src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-mediumaquamarine?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-dodgerblue?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-steelblue?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-gray?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-deeppink?style=for-the-badge&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-olive?style=for-the-badge&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-tomato?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-cornflowerblue?style=for-the-badge&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/RabbitMQ-darkorange?style=for-the-badge&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-coral?style=for-the-badge&logo=git&logoColor=white"/> 
+
 
 <!--
 **kondraurov/kondraurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
